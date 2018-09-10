@@ -1,0 +1,14 @@
+{
+  "name": "ng-complib-reveal",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "revealer --start",
+    "build": "revealer --build dist",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "reveal.js": "^3.7.0",
+    "revealer": "^2.1.3"
+  }
+}
